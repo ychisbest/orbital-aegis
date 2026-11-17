@@ -1,0 +1,1 @@
+{"description":"Dev-only tooling (screenshot capture). The entry itself, main.ts, uses the Node standard library alone.","devDependencies":{"puppeteer-core":"^23.11.1"},"name":"orbital-aegis","private":true,"type":"module"}
